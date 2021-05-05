@@ -43,3 +43,25 @@ Scraped stats for top 100 players of the ATP circuits for last ranking update of
 * Return Games Won %	
 * Return Points Won %	
 * Total Points Won %
+
+## Data Cleaning
+
+Following changes were made and variables were created to be able to use the data for its analysis:
+* Parsed numeric data out of effectivities (expressed in %).
+* Removed empty columns that previously had graphic information.
+* Transformed 'Turned Pro' date into the career lenght of each player.
+* Removed columns with stats that behave similarly for all players or were already explained by other variables:
+          * Age
+          * 1st Serve %
+          * 1st Serve Points Won %
+          * 2nd Serve Points Won % 
+          * Break Points Faced
+          * Break Points Saved %
+          * Service Games Won %
+          * 1st Serve Return Points Won %
+          * 2nd Serve Return Points Won %
+
+## Exploratory Data Analysis (EDA)
+
+Examined the distributions of the data. Below are a few highlights found:
+
