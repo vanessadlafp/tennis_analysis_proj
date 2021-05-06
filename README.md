@@ -69,7 +69,7 @@ Examined the distributions of the data. Below are a few highlights found:
 -----------------------------------------------------------------------------------------------------------------------------------------|-------
 
 
-<img src="https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/corr_map_2011.png " width="450" height="450"> | <img src="https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/corr_map_2019.png " width="450" height="450">
+<img src="https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/corr_map_2011.png" width="450" height="450"> | <img src="https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/corr_map_2019.png" width="450" height="450">
 -----------------------------------------------------------------------------------------------------------------------------------------|-------
 
 ## Cluster Analysis
