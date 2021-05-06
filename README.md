@@ -65,3 +65,11 @@ Following changes were made and variables were created to be able to use the dat
 
 Examined the distributions of the data. Below are a few highlights found:
 
+![](https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/career_length_2011.png) | ![](https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/career_length_2019.png)
+
+<img src="https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/corr_map_2011.png " width="600" height="600"> | <img src="https://github.com/vanessadlafp/tennis_analysis_proj/blob/main/corr_map_2019.png " width="600" height="600">
+
+## Model Building
+1) Hierarchical clustering: dendogram to eyeball the clusters
+2) K_Means: to see main tendencies
+3) K_Means clustering with PCA: to better define clusters
